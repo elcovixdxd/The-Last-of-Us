@@ -759,5 +759,11 @@
     },
     "done": true
   },
+  "phayriosis:phayriosis_parasite_infection": {
+    "criteria": {
+      "phayriosis_parasite_infection_0": "2024-12-02 23:32:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

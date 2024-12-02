@@ -735,3 +735,58 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Dec2024 23:23:04.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darcksade15> me mataron ni bien entre XD
 [02Dec2024 23:23:23.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
 [02Dec2024 23:23:43.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4938ms or 98 ticks behind
+[02Dec2024 23:23:58.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy has made the advancement [Suit Up]
+[02Dec2024 23:24:07.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8486ms or 169 ticks behind
+[02Dec2024 23:24:29.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7289ms or 145 ticks behind
+[02Dec2024 23:24:53.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8640ms or 172 ticks behind
+[02Dec2024 23:25:14.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6520ms or 130 ticks behind
+[02Dec2024 23:25:24.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcovid19> hola XD
+[02Dec2024 23:25:31.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy has made the advancement [Not Today, Thank You]
+[02Dec2024 23:25:31.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/50114, l='ServerLevel[world]', x=9.14, y=72.00, z=60.46] died: Gistique was slain by Phayrector
+[02Dec2024 23:25:32.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[02Dec2024 23:25:34.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was shot by Infected Pillager
+[02Dec2024 23:25:53.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6311ms or 126 ticks behind
+[02Dec2024 23:25:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
+[02Dec2024 23:25:59.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 has made the advancement [The Flesh Has Arrived]
+[02Dec2024 23:25:59.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 has made the advancement [The Flesh Has Arrived]
+[02Dec2024 23:25:59.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF has made the advancement [The Flesh Has Arrived]
+[02Dec2024 23:25:59.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy has made the advancement [The Flesh Has Arrived]
+[02Dec2024 23:26:13.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4562ms or 91 ticks behind
+[02Dec2024 23:26:15.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FirexpSTF lost connection: Disconnected
+[02Dec2024 23:26:15.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF left the game
+[02Dec2024 23:26:31.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 has made the advancement [Stone Age]
+[02Dec2024 23:27:05.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darcksade15> lo que baja el esqueleto XD
+[02Dec2024 23:27:16.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02Dec2024 23:27:21.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[02Dec2024 23:27:34.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[02Dec2024 23:27:52.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3421ms or 68 ticks behind
+[02Dec2024 23:28:07.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 has made the advancement [Getting an Upgrade]
+[02Dec2024 23:28:12.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5106ms or 102 ticks behind
+[02Dec2024 23:28:27.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FirexpSTF[/127.89.13.142:37573] logged in with entity id 54549 at (63.80179053583413, 70.0, -230.15863682409218)
+[02Dec2024 23:28:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF joined the game
+[02Dec2024 23:28:27.828] [Server thread/INFO] [Jade/]: Syncing config to FirexpSTF (f9a867d9-57fe-35a1-9f86-a1d1c4bad088)
+[02Dec2024 23:28:39.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11921ms or 238 ticks behind
+[02Dec2024 23:29:11.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16152ms or 323 ticks behind
+[02Dec2024 23:29:38.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11985ms or 239 ticks behind
+[02Dec2024 23:29:58.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5286ms or 105 ticks behind
+[02Dec2024 23:30:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy has succumbed to the infection
+[02Dec2024 23:30:21.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8391ms or 167 ticks behind
+[02Dec2024 23:30:44.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7895ms or 157 ticks behind
+[02Dec2024 23:31:07.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8294ms or 165 ticks behind
+[02Dec2024 23:31:29.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7009ms or 140 ticks behind
+[02Dec2024 23:31:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darcksade15> me desangro XD
+[02Dec2024 23:31:51.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6872ms or 137 ticks behind
+[02Dec2024 23:32:00.718] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [pointblank:pointblank,enhancedvisuals:main,sophisticatedbackpacks:channel,securitycraft:securitycraft,jeg:play,azurelib:main,framework:play,azurelib:network_channel,tacz:handshake,curios:main,framework:handshake,mteg:play,forge:tier_sorting,creativecore:main,sophisticatedcore:channel,hordes:infection,hordes:hordeevent,simple_guns_reworked:simple_guns_reworked,tacz:network,phayriosis:phayriosis,geckolib:main] rejected vanilla connections
+[02Dec2024 23:32:00.720] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.168.107.244:59739] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[02Dec2024 23:32:14.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7684ms or 153 ticks behind
+[02Dec2024 23:32:16.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF has made the advancement [Phayriosis Parasite Infection]
+[02Dec2024 23:32:38.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9419ms or 188 ticks behind
+[02Dec2024 23:32:59.398] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [enhancedvisuals:main] rejected their client side version number
+[02Dec2024 23:32:59.404] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Dec2024 23:32:59.667] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e2b46b4[id=<null>,name=Kabeki,properties={},legacy=false] (/127.168.107.244:39513) lost connection: Connection closed - mismatched mod channel list
+[02Dec2024 23:33:02.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9247ms or 184 ticks behind
+[02Dec2024 23:33:24.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6373ms or 127 ticks behind
+[02Dec2024 23:33:27.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kaussr[/127.193.202.171:58233] logged in with entity id 59060 at (-6.5, 82.0, 6.5)
+[02Dec2024 23:33:27.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kaussr joined the game
+[02Dec2024 23:33:27.991] [Server thread/INFO] [Jade/]: Syncing config to Kaussr (8d8cc63c-7e13-3afd-a2e4-05c59119a74c)
+[02Dec2024 23:33:49.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10194ms or 203 ticks behind

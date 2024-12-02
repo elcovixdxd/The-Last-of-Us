@@ -3714,3 +3714,125 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [02Dec2024 23:02:49.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=143.83, y=30.77, z=103.44]
 [02Dec2024 23:03:17.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [02Dec2024 23:03:28.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF was eaten alive by Infected Human
+[02Dec2024 23:03:33.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['FirexpSTF'/21734, l='ServerLevel[world]', x=-91.59, y=67.00, z=-53.34] died: FirexpSTF was slain by Converted Horse
+[02Dec2024 23:03:35.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
+[02Dec2024 23:03:35.703] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=143.11, y=31.25, z=103.78], dimensionLocationPath overworld
+[02Dec2024 23:03:35.703] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=143.11, y=31.25, z=103.78] in list []
+[02Dec2024 23:03:41.558] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=135.51, y=27.00, z=120.09]
+[02Dec2024 23:03:42.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF has made the advancement [Spore]
+[02Dec2024 23:03:50.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was shot by Skeleton
+[02Dec2024 23:03:54.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[02Dec2024 23:04:00.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF forgot Infected Human was a bioweapon
+[02Dec2024 23:04:09.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[02Dec2024 23:04:12.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 23:04:12.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 23:04:12.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
+[02Dec2024 23:04:28.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Adventure Mode]
+[02Dec2024 23:04:29.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[02Dec2024 23:04:30.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[02Dec2024 23:04:31.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[02Dec2024 23:04:39.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[02Dec2024 23:04:41.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 fell from a high place
+[02Dec2024 23:04:50.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5693ms or 113 ticks behind
+[02Dec2024 23:04:59.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Bowser'/24176, l='ServerLevel[world]', x=154.70, y=37.87, z=70.48] died: Bowser was slain by Phayrector
+[02Dec2024 23:05:00.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[02Dec2024 23:05:12.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7849ms or 156 ticks behind
+[02Dec2024 23:05:31.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3411ms or 68 ticks behind
+[02Dec2024 23:05:39.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF has made the advancement [Stone Age]
+[02Dec2024 23:05:50.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4438ms or 88 ticks behind
+[02Dec2024 23:06:09.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4014ms or 80 ticks behind
+[02Dec2024 23:06:12.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[02Dec2024 23:06:22.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
+[02Dec2024 23:06:27.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[02Dec2024 23:06:31.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF has made the advancement [Getting an Upgrade]
+[02Dec2024 23:06:50.740] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=137.97, y=26.00, z=122.66], dimensionLocationPath overworld
+[02Dec2024 23:06:50.741] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=137.97, y=26.00, z=122.66] in list []
+[02Dec2024 23:06:51.092] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.30, y=86.00, z=79.30], dimensionLocationPath overworld
+[02Dec2024 23:06:51.093] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.30, y=86.00, z=79.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@100f]
+[02Dec2024 23:06:52.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
+[02Dec2024 23:06:55.219] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.42, y=86.00, z=79.36]
+[02Dec2024 23:06:56.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02Dec2024 23:07:00.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=132.09, y=29.18, z=130.66]
+[02Dec2024 23:07:03.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy has made the advancement [Monster Hunter]
+[02Dec2024 23:07:14.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3327ms or 66 ticks behind
+[02Dec2024 23:07:22.033] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.01, y=83.00, z=77.65], dimensionLocationPath overworld
+[02Dec2024 23:07:22.034] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.01, y=83.00, z=77.65] in list []
+[02Dec2024 23:07:23.136] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.01, y=83.00, z=77.66]
+[02Dec2024 23:07:32.826] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=124.21, y=30.00, z=128.36], dimensionLocationPath overworld
+[02Dec2024 23:07:32.826] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=124.21, y=30.00, z=128.36] in list []
+[02Dec2024 23:07:33.406] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.68, y=83.00, z=76.82], dimensionLocationPath overworld
+[02Dec2024 23:07:33.406] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.68, y=83.00, z=76.82] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@100f]
+[02Dec2024 23:07:34.363] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.53, y=83.00, z=76.30]
+[02Dec2024 23:07:35.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02Dec2024 23:07:40.081] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=117.30, y=32.00, z=124.30]
+[02Dec2024 23:07:58.745] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=86.05, y=83.00, z=74.36], dimensionLocationPath overworld
+[02Dec2024 23:07:58.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=86.05, y=83.00, z=74.36] in list []
+[02Dec2024 23:07:59.233] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=87.58, y=83.00, z=73.41]
+[02Dec2024 23:08:00.023] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.79, y=83.00, z=74.22], dimensionLocationPath overworld
+[02Dec2024 23:08:00.023] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.79, y=83.00, z=74.22] in list []
+[02Dec2024 23:08:01.595] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.66, y=83.00, z=75.42]
+[02Dec2024 23:08:04.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=135.06, y=28.00, z=127.67], dimensionLocationPath overworld
+[02Dec2024 23:08:04.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=135.06, y=28.00, z=127.67] in list []
+[02Dec2024 23:08:09.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=140.45, y=24.00, z=136.30]
+[02Dec2024 23:08:28.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy melted
+[02Dec2024 23:09:03.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/28280, l='ServerLevel[world]', x=158.69, y=-14.23, z=63.52] died: Mademoiselle2016 was slain by Zombie
+[02Dec2024 23:09:10.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 has made the advancement [Acquire Hardware]
+[02Dec2024 23:09:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was fungi-fied by Phayres
+[02Dec2024 23:09:50.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 23:09:50.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 23:10:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 has made the advancement [Isn't It Iron Pick]
+[02Dec2024 23:10:42.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was fungi-fied by Volatile
+[02Dec2024 23:10:51.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.36, y=86.00, z=81.16], dimensionLocationPath overworld
+[02Dec2024 23:10:51.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.36, y=86.00, z=81.16] in list []
+[02Dec2024 23:10:51.531] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.36, y=86.00, z=81.20]
+[02Dec2024 23:10:55.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[02Dec2024 23:11:14.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[02Dec2024 23:11:16.836] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.52, y=77.00, z=72.30], dimensionLocationPath overworld
+[02Dec2024 23:11:16.837] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.52, y=77.00, z=72.30] in list []
+[02Dec2024 23:11:16.919] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.53, y=77.00, z=72.30]
+[02Dec2024 23:11:18.646] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.78, y=77.00, z=72.50], dimensionLocationPath overworld
+[02Dec2024 23:11:18.647] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.78, y=77.00, z=72.50] in list []
+[02Dec2024 23:11:20.880] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.74, y=77.00, z=72.54]
+[02Dec2024 23:11:31.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Dec2024 23:11:38.398] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.52, y=71.00, z=68.34], dimensionLocationPath overworld
+[02Dec2024 23:11:38.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.52, y=71.00, z=68.34] in list []
+[02Dec2024 23:11:40.527] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.47, y=70.00, z=67.70]
+[02Dec2024 23:11:41.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.47, y=70.00, z=67.70], dimensionLocationPath overworld
+[02Dec2024 23:11:41.028] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.47, y=70.00, z=67.70] in list []
+[02Dec2024 23:11:41.088] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.47, y=70.00, z=67.70]
+[02Dec2024 23:11:47.965] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.25, y=67.00, z=65.24], dimensionLocationPath overworld
+[02Dec2024 23:11:47.966] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.25, y=67.00, z=65.24] in list []
+[02Dec2024 23:11:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was fungi-fied by Phayres
+[02Dec2024 23:11:49.101] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=134.87, y=27.77, z=109.25]
+[02Dec2024 23:11:51.750] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.91, y=66.00, z=64.17]
+[02Dec2024 23:11:53.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6534ms or 130 ticks behind
+[02Dec2024 23:12:00.236] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.24, y=64.00, z=62.66], dimensionLocationPath overworld
+[02Dec2024 23:12:00.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.24, y=64.00, z=62.66] in list []
+[02Dec2024 23:12:00.361] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.22, y=64.00, z=62.67]
+[02Dec2024 23:12:00.796] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.21, y=64.00, z=62.67], dimensionLocationPath overworld
+[02Dec2024 23:12:00.796] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.21, y=64.00, z=62.67] in list []
+[02Dec2024 23:12:03.698] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.46, y=64.00, z=61.94]
+[02Dec2024 23:12:15.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=86.70, y=62.00, z=60.05], dimensionLocationPath overworld
+[02Dec2024 23:12:15.984] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=86.70, y=62.00, z=60.05] in list []
+[02Dec2024 23:12:16.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8013ms or 160 ticks behind
+[02Dec2024 23:12:17.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Primordial Hatcher
+[02Dec2024 23:12:17.072] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['orion_cuy'/4111, l='ServerLevel[world]', x=83.70, y=79.75, z=94.86]
+[02Dec2024 23:12:23.223] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.21, y=61.00, z=58.56]
+[02Dec2024 23:12:23.561] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.21, y=61.00, z=58.56], dimensionLocationPath overworld
+[02Dec2024 23:12:23.562] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.21, y=61.00, z=58.56] in list []
+[02Dec2024 23:12:23.789] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.21, y=61.00, z=58.56]
+[02Dec2024 23:12:37.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6559ms or 131 ticks behind
+[02Dec2024 23:12:58.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=86.52, y=68.25, z=65.87], dimensionLocationPath overworld
+[02Dec2024 23:12:58.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=86.52, y=68.25, z=65.87] in list []
+[02Dec2024 23:12:58.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.98, y=68.00, z=66.46]
+[02Dec2024 23:12:59.007] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.66, y=68.00, z=66.44], dimensionLocationPath overworld
+[02Dec2024 23:12:59.007] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.66, y=68.00, z=66.44] in list []
+[02Dec2024 23:12:59.127] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=85.66, y=68.00, z=66.44]
+[02Dec2024 23:13:01.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8900ms or 178 ticks behind
+[02Dec2024 23:13:06.006] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=86.62, y=76.02, z=72.05], dimensionLocationPath overworld
+[02Dec2024 23:13:06.006] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=86.62, y=76.02, z=72.05] in list []
+[02Dec2024 23:13:07.120] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Elcovid19'/10671, l='ServerLevel[world]', x=84.77, y=76.00, z=72.37]
+[02Dec2024 23:13:12.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Volatile
+[02Dec2024 23:13:21.765] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Dec2024 23:13:21.776] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Dec2024 23:13:29.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13013ms or 260 ticks behind

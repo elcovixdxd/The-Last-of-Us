@@ -871,6 +871,12 @@
     },
     "done": true
   },
+  "jeg:scrap_workbench": {
+    "criteria": {
+      "Item": "2024-12-03 00:02:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-02 23:09:10 +0000"

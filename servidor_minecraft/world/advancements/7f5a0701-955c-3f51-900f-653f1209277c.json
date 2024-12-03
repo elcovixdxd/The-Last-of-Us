@@ -887,6 +887,18 @@
     },
     "done": true
   },
+  "phayriosis:beast_slayer": {
+    "criteria": {
+      "beast_slayer_0": "2024-12-03 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 00:48:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-02 23:04:50 +0000"
@@ -1283,6 +1295,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-03 00:48:43 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2024-12-02 23:09:10 +0000"
@@ -1322,6 +1340,12 @@
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-12-02 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-03 00:46:35 +0000"
     },
     "done": true
   },

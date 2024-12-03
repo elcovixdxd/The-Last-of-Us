@@ -5948,3 +5948,39 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [03Dec2024 00:24:16.488] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FirexpSTF'/54549, l='ServerLevel[world]', x=212.64, y=102.94, z=-224.28]
 [03Dec2024 00:24:38.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13029ms or 260 ticks behind
 [03Dec2024 00:25:02.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9000ms or 180 ticks behind
+[03Dec2024 00:25:28.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * FirexpSTF se tropesó con la cama
+[03Dec2024 00:25:31.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14038ms or 280 ticks behind
+[03Dec2024 00:26:00.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14528ms or 290 ticks behind
+[03Dec2024 00:26:28.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12426ms or 248 ticks behind
+[03Dec2024 00:26:55.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12552ms or 251 ticks behind
+[03Dec2024 00:27:12.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy has made the advancement [Diamonds!]
+[03Dec2024 00:27:21.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11080ms or 221 ticks behind
+[03Dec2024 00:27:48.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11465ms or 229 ticks behind
+[03Dec2024 00:28:13.883] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['FirexpSTF'/54549, l='ServerLevel[world]', x=211.35, y=104.56, z=-223.39], dimensionLocationPath overworld
+[03Dec2024 00:28:13.884] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['FirexpSTF'/54549, l='ServerLevel[world]', x=211.35, y=104.56, z=-223.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@29af]
+[03Dec2024 00:28:14.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['FirexpSTF'/54549, l='ServerLevel[world]', x=212.12, y=104.00, z=-223.49]
+[03Dec2024 00:28:14.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11473ms or 229 ticks behind
+[03Dec2024 00:28:20.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FirexpSTF lost connection: Disconnected
+[03Dec2024 00:28:20.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF left the game
+[03Dec2024 00:28:34.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
+[03Dec2024 00:28:51.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[03Dec2024 00:29:10.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4506ms or 90 ticks behind
+[03Dec2024 00:29:16.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 00:29:16.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 00:29:28.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[03Dec2024 00:29:46.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[03Dec2024 00:30:06.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[03Dec2024 00:30:26.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5133ms or 102 ticks behind
+[03Dec2024 00:30:50.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9565ms or 191 ticks behind
+[03Dec2024 00:31:15.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9388ms or 187 ticks behind
+[03Dec2024 00:31:37.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7524ms or 150 ticks behind
+[03Dec2024 00:32:04.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12301ms or 246 ticks behind
+[03Dec2024 00:32:30.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11083ms or 221 ticks behind
+[03Dec2024 00:32:54.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8961ms or 179 ticks behind
+[03Dec2024 00:33:17.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7378ms or 147 ticks behind
+[03Dec2024 00:33:43.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11184ms or 223 ticks behind
+[03Dec2024 00:34:10.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12177ms or 243 ticks behind
+[03Dec2024 00:34:35.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9986ms or 199 ticks behind
+[03Dec2024 00:35:02.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11806ms or 236 ticks behind
+[03Dec2024 00:35:08.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was shot by Skeleton
+[03Dec2024 00:35:08.072] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['orion_cuy'/71785, l='ServerLevel[world]', x=282.06, y=80.80, z=-199.27]

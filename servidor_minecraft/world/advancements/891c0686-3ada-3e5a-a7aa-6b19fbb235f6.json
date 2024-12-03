@@ -15,6 +15,7 @@
     "criteria": {
       "minecraft:savanna_plateau": "2024-12-02 23:46:58 +0000",
       "minecraft:beach": "2024-12-02 22:59:49 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-03 01:02:20 +0000",
       "minecraft:stony_shore": "2024-12-02 23:41:27 +0000",
       "minecraft:forest": "2024-12-03 00:28:23 +0000",
       "minecraft:flower_forest": "2024-12-02 22:48:05 +0000",
@@ -1671,6 +1672,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-03 01:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-02 23:45:45 +0000"
@@ -1785,6 +1792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-03 00:51:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-03 00:21:31 +0000"
@@ -1800,6 +1813,12 @@
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-03 00:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-03 01:05:55 +0000"
     },
     "done": true
   },
@@ -1959,6 +1978,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-03 01:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-03 01:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-02 23:57:05 +0000"
@@ -2094,6 +2125,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2024-12-02 23:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-03 01:05:55 +0000"
     },
     "done": true
   },

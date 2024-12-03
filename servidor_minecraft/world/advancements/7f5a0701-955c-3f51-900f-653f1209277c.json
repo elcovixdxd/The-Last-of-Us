@@ -13,8 +13,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2024-12-03 00:45:05 +0000",
+      "minecraft:river": "2024-12-03 00:42:32 +0000",
       "minecraft:flower_forest": "2024-12-02 21:51:13 +0000",
-      "minecraft:meadow": "2024-12-02 22:46:42 +0000"
+      "minecraft:meadow": "2024-12-02 22:46:42 +0000",
+      "minecraft:savanna": "2024-12-03 00:42:37 +0000",
+      "minecraft:plains": "2024-12-03 00:42:28 +0000"
     },
     "done": false
   },
@@ -1234,6 +1238,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2024-12-02 23:10:07 +0000"
+    },
+    "done": true
+  },
+  "spore:spore": {
+    "criteria": {
+      "requirement": "2024-12-03 00:42:45 +0000"
     },
     "done": true
   },

@@ -14,8 +14,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-12-02 23:22:13 +0000",
+      "minecraft:savanna_plateau": "2024-12-03 01:50:29 +0000",
       "minecraft:river": "2024-12-02 23:21:58 +0000",
-      "minecraft:flower_forest": "2024-12-02 23:20:35 +0000"
+      "minecraft:flower_forest": "2024-12-02 23:20:35 +0000",
+      "minecraft:meadow": "2024-12-03 01:48:20 +0000",
+      "minecraft:savanna": "2024-12-03 01:49:49 +0000"
     },
     "done": false
   },
@@ -579,9 +582,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2024-12-02 23:31:31 +0000"
+      "cooked_mutton": "2024-12-02 23:31:31 +0000",
+      "melon_slice": "2024-12-03 01:54:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-03 00:02:06 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
@@ -601,21 +611,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-03 00:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-03 00:22:25 +0000"
     },
     "done": true
   },
@@ -628,12 +626,6 @@
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-03 00:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
     },
     "done": true
   },
@@ -655,33 +647,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2024-12-03 00:16:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-12-03 00:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-03 00:02:06 +0000"
     },
     "done": true
   },
@@ -697,45 +671,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-03 00:16:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2024-12-03 00:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
     },
     "done": true
   },
@@ -769,12 +713,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-03 00:20:19 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2024-12-03 00:16:30 +0000"
@@ -784,6 +722,90 @@
   "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-03 00:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-03 00:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-03 00:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-03 01:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-03 01:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-03 01:54:46 +0000"
     },
     "done": true
   },

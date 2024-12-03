@@ -1,383 +1,578 @@
-[03Dec2024 00:00:07.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9346ms or 186 ticks behind
-[03Dec2024 00:00:28.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6143ms or 122 ticks behind
-[03Dec2024 00:00:51.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7473ms or 149 ticks behind
-[03Dec2024 00:00:51.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 00:01:11.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5795ms or 115 ticks behind
-[03Dec2024 00:01:26.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: darcksade15[/127.225.147.38:54825] logged in with entity id 81997 at (84.36350340970394, 86.0, 81.38990337453178)
-[03Dec2024 00:01:26.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 joined the game
-[03Dec2024 00:01:26.291] [Server thread/INFO] [Jade/]: Syncing config to darcksade15 (d867e56f-ee01-31ac-898d-6b8e130190fd)
-[03Dec2024 00:01:36.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9943ms or 198 ticks behind
-[03Dec2024 00:01:57.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5728ms or 114 ticks behind
-[03Dec2024 00:02:16.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 00:02:18.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6426ms or 128 ticks behind
-[03Dec2024 00:02:41.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darcksade15> me muero XD
-[03Dec2024 00:02:41.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcovid19> que fue XD
-[03Dec2024 00:02:43.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9543ms or 190 ticks behind
-[03Dec2024 00:03:10.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12598ms or 251 ticks behind
-[03Dec2024 00:03:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 00:03:35.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9847ms or 196 ticks behind
-[03Dec2024 00:03:36.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darcksade15> covid y eso ?
-[03Dec2024 00:03:45.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcovid19> un enemigo
-[03Dec2024 00:03:56.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darcksade15> ta bien
-[03Dec2024 00:03:58.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7437ms or 148 ticks behind
-[03Dec2024 00:04:23.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10200ms or 204 ticks behind
-[03Dec2024 00:04:56.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18127ms or 362 ticks behind
-[03Dec2024 00:05:26.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15190ms or 303 ticks behind
-[03Dec2024 00:06:02.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20827ms or 416 ticks behind
-[03Dec2024 00:06:08.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darcksade15> que mounstro de mrd XD
-[03Dec2024 00:06:47.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30607ms or 612 ticks behind
-[03Dec2024 00:07:26.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23264ms or 465 ticks behind
-[03Dec2024 00:07:59.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18531ms or 370 ticks behind
-[03Dec2024 00:08:32.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17621ms or 352 ticks behind
-[03Dec2024 00:09:06.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18764ms or 375 ticks behind
-[03Dec2024 00:09:38.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17802ms or 356 ticks behind
-[03Dec2024 00:10:01.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elcovid19> XD
-[03Dec2024 00:10:02.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8610ms or 172 ticks behind
-[03Dec2024 00:10:22.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <darcksade15> no me dejan tranquilo XD
-[03Dec2024 00:10:27.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9588ms or 191 ticks behind
-[03Dec2024 00:10:53.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11834ms or 236 ticks behind
-[03Dec2024 00:11:26.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17278ms or 345 ticks behind
-[03Dec2024 00:12:04.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23506ms or 470 ticks behind
-[03Dec2024 00:12:46.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26877ms or 537 ticks behind
-[03Dec2024 00:13:08.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy hit the ground too hard
-[03Dec2024 00:13:11.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * FirexpSTF explotó
-[03Dec2024 00:13:27.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26316ms or 526 ticks behind
-[03Dec2024 00:14:05.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23244ms or 464 ticks behind
-[03Dec2024 00:14:43.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22134ms or 442 ticks behind
-[03Dec2024 00:15:20.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FirexpSTF) moved too quickly! 5.344780856016229,0.0,8.863076840324084
-[03Dec2024 00:15:20.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FirexpSTF) moved too quickly! 5.551163871825452,0.0,9.205318509982305
-[03Dec2024 00:15:31.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33992ms or 679 ticks behind
-[03Dec2024 00:15:41.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF has made the advancement [Ice Bucket Challenge]
-[03Dec2024 00:16:15.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28141ms or 562 ticks behind
-[03Dec2024 00:16:50.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20454ms or 409 ticks behind
-[03Dec2024 00:17:24.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19265ms or 385 ticks behind
-[03Dec2024 00:17:57.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17424ms or 348 ticks behind
-[03Dec2024 00:18:30.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17993ms or 359 ticks behind
-[03Dec2024 00:19:01.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16284ms or 325 ticks behind
-[03Dec2024 00:19:33.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16798ms or 335 ticks behind
-[03Dec2024 00:20:06.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18076ms or 361 ticks behind
-[03Dec2024 00:20:39.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18534ms or 370 ticks behind
-[03Dec2024 00:21:14.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19804ms or 396 ticks behind
-[03Dec2024 00:21:41.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11624ms or 232 ticks behind
-[03Dec2024 00:21:49.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy has made the advancement [Untrimmed Toenails]
-[03Dec2024 00:22:06.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10660ms or 213 ticks behind
-[03Dec2024 00:22:25.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 has made the advancement [Sweet Dreams]
-[03Dec2024 00:22:32.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11195ms or 223 ticks behind
-[03Dec2024 00:22:38.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: darcksade15 lost connection: Disconnected
-[03Dec2024 00:22:38.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: darcksade15 left the game
-[03Dec2024 00:22:56.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8883ms or 177 ticks behind
-[03Dec2024 00:23:20.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9287ms or 185 ticks behind
-[03Dec2024 00:23:45.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9902ms or 198 ticks behind
-[03Dec2024 00:23:53.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 00:24:10.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9407ms or 188 ticks behind
-[03Dec2024 00:24:38.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13029ms or 260 ticks behind
-[03Dec2024 00:25:02.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9000ms or 180 ticks behind
-[03Dec2024 00:25:28.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * FirexpSTF se tropesó con la cama
-[03Dec2024 00:25:31.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14038ms or 280 ticks behind
-[03Dec2024 00:26:00.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14528ms or 290 ticks behind
-[03Dec2024 00:26:28.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12426ms or 248 ticks behind
-[03Dec2024 00:26:55.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12552ms or 251 ticks behind
-[03Dec2024 00:27:12.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy has made the advancement [Diamonds!]
-[03Dec2024 00:27:21.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11080ms or 221 ticks behind
-[03Dec2024 00:27:48.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11465ms or 229 ticks behind
-[03Dec2024 00:28:14.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11473ms or 229 ticks behind
-[03Dec2024 00:28:20.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FirexpSTF lost connection: Disconnected
-[03Dec2024 00:28:20.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FirexpSTF left the game
-[03Dec2024 00:28:34.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
-[03Dec2024 00:28:51.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[03Dec2024 00:29:10.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4506ms or 90 ticks behind
-[03Dec2024 00:29:28.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
-[03Dec2024 00:29:46.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[03Dec2024 00:30:06.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
-[03Dec2024 00:30:26.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5133ms or 102 ticks behind
-[03Dec2024 00:30:50.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9565ms or 191 ticks behind
-[03Dec2024 00:31:15.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9388ms or 187 ticks behind
-[03Dec2024 00:31:37.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7524ms or 150 ticks behind
-[03Dec2024 00:32:04.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12301ms or 246 ticks behind
-[03Dec2024 00:32:30.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11083ms or 221 ticks behind
-[03Dec2024 00:32:54.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8961ms or 179 ticks behind
-[03Dec2024 00:33:17.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7378ms or 147 ticks behind
-[03Dec2024 00:33:43.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11184ms or 223 ticks behind
-[03Dec2024 00:34:10.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12177ms or 243 ticks behind
-[03Dec2024 00:34:35.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9986ms or 199 ticks behind
-[03Dec2024 00:35:02.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11806ms or 236 ticks behind
-[03Dec2024 00:35:08.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was shot by Skeleton
-[03Dec2024 00:35:27.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10277ms or 205 ticks behind
-[03Dec2024 00:35:52.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10277ms or 205 ticks behind
-[03Dec2024 00:36:17.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9799ms or 195 ticks behind
-[03Dec2024 00:36:40.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8496ms or 169 ticks behind
-[03Dec2024 00:37:04.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9093ms or 181 ticks behind
-[03Dec2024 00:37:20.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/113470, l='ServerLevel[world]', x=252.49, y=89.94, z=-245.30] died, message: 'Unemployed was eaten alive by Brotkatze'
-[03Dec2024 00:37:28.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/65398, l='ServerLevel[world]', x=253.94, y=90.00, z=-243.65] died, message: 'Unemployed withered away whilst fighting Brotkatze'
-[03Dec2024 00:37:30.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10678ms or 213 ticks behind
-[03Dec2024 00:37:54.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8526ms or 170 ticks behind
-[03Dec2024 00:37:56.519] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 00:37:56.520] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@50339f52[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:35267): Unexpected custom data from client
-[03Dec2024 00:37:56.559] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50339f52[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:35267) lost connection: Unexpected custom data from client
-[03Dec2024 00:38:18.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9066ms or 181 ticks behind
-[03Dec2024 00:38:38.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5829ms or 116 ticks behind
-[03Dec2024 00:38:51.435] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e9dd08f[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:38491) lost connection: Disconnected
-[03Dec2024 00:38:59.215] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 00:38:59.216] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@26a83395[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:41711): Unexpected custom data from client
-[03Dec2024 00:39:00.045] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26a83395[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:41711) lost connection: Unexpected custom data from client
-[03Dec2024 00:39:03.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9652ms or 193 ticks behind
-[03Dec2024 00:39:18.464] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 00:39:18.465] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@767aaab0[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:34145): Unexpected custom data from client
-[03Dec2024 00:39:18.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@767aaab0[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:34145) lost connection: Unexpected custom data from client
-[03Dec2024 00:39:28.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9875ms or 197 ticks behind
-[03Dec2024 00:39:52.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 00:39:54.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10873ms or 217 ticks behind
-[03Dec2024 00:40:15.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['orion_cuy'/118869, l='ServerLevel[world]', x=284.92, y=80.00, z=-214.97] died: Husk Player was shot by orion_cuy
-[03Dec2024 00:40:19.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10600ms or 212 ticks behind
-[03Dec2024 00:40:33.498] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c734773[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:39399) lost connection: Disconnected
-[03Dec2024 00:40:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 00:40:43.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9067ms or 181 ticks behind
-[03Dec2024 00:40:52.001] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 00:40:52.003] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@279cfd59[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:37209): Unexpected custom data from client
-[03Dec2024 00:40:52.045] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@279cfd59[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:37209) lost connection: Unexpected custom data from client
-[03Dec2024 00:41:06.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7220ms or 144 ticks behind
-[03Dec2024 00:41:08.394] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 00:41:08.399] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@62aa1c08[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:47011): Unexpected custom data from client
-[03Dec2024 00:41:08.522] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62aa1c08[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:47011) lost connection: Unexpected custom data from client
-[03Dec2024 00:41:27.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6698ms or 133 ticks behind
-[03Dec2024 00:41:49.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6262ms or 125 ticks behind
-[03Dec2024 00:42:12.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8020ms or 160 ticks behind
-[03Dec2024 00:42:23.071] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 00:42:23.073] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4e974d27[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:56761): Unexpected custom data from client
-[03Dec2024 00:42:23.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e974d27[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:56761) lost connection: Unexpected custom data from client
-[03Dec2024 00:42:37.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10813ms or 216 ticks behind
-[03Dec2024 00:42:45.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 has made the advancement [Spore]
-[03Dec2024 00:42:59.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7024ms or 140 ticks behind
-[03Dec2024 00:43:15.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elcovid19 moved too quickly! 6.540230262025972,-0.9893499858739716,-7.7041239971742925
-[03Dec2024 00:43:25.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11139ms or 222 ticks behind
-[03Dec2024 00:43:53.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12324ms or 246 ticks behind
-[03Dec2024 00:43:58.677] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fb24f24[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:40941) lost connection: Disconnected
-[03Dec2024 00:44:24.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16081ms or 321 ticks behind
-[03Dec2024 00:44:28.288] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 00:44:28.289] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@22cb77be[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:47633): Unexpected custom data from client
-[03Dec2024 00:44:28.392] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22cb77be[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:47633) lost connection: Unexpected custom data from client
-[03Dec2024 00:44:34.339] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 00:44:34.340] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4dbdfe2f[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:46763): Unexpected custom data from client
-[03Dec2024 00:44:34.374] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4dbdfe2f[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:46763) lost connection: Unexpected custom data from client
-[03Dec2024 00:44:50.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10847ms or 216 ticks behind
-[03Dec2024 00:45:10.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5354ms or 107 ticks behind
-[03Dec2024 00:45:33.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7938ms or 158 ticks behind
-[03Dec2024 00:45:35.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 00:45:58.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9829ms or 196 ticks behind
-[03Dec2024 00:46:15.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[03Dec2024 00:46:34.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[03Dec2024 00:47:05.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[03Dec2024 00:47:48.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[03Dec2024 00:48:08.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4834ms or 96 ticks behind
-[03Dec2024 00:48:31.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 00:48:40.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03Dec2024 00:48:58.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
-[03Dec2024 00:49:20.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7416ms or 148 ticks behind
-[03Dec2024 00:49:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 has made the advancement [Beast Slayer]
-[03Dec2024 00:49:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 00:50:08.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
-[03Dec2024 00:50:29.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6045ms or 120 ticks behind
-[03Dec2024 00:50:48.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4129ms or 82 ticks behind
-[03Dec2024 00:50:50.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 00:51:20.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was doomed to fall by Phayrector
-[03Dec2024 00:51:23.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[03Dec2024 00:51:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 00:51:56.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[03Dec2024 00:52:17.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
-[03Dec2024 00:52:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 has made the advancement [Diamonds!]
-[03Dec2024 00:52:31.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! -0.5677481746638477,-11.41831084788145,-0.6481083930349882
-[03Dec2024 00:52:37.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5302ms or 106 ticks behind
-[03Dec2024 00:52:57.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4365ms or 87 ticks behind
-[03Dec2024 00:53:15.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
-[03Dec2024 00:53:36.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6805ms or 136 ticks behind
-[03Dec2024 00:54:01.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9098ms or 181 ticks behind
-[03Dec2024 00:54:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Phayrector
-[03Dec2024 00:54:20.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4085ms or 81 ticks behind
-[03Dec2024 00:54:52.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! -0.9566764600893976,-10.465585756413823,-1.1040346833462422
-[03Dec2024 00:54:52.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[03Dec2024 00:55:04.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy melted
-[03Dec2024 00:55:10.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
-[03Dec2024 00:55:30.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
-[03Dec2024 00:55:49.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4335ms or 86 ticks behind
-[03Dec2024 00:55:58.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 00:56:13.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8807ms or 176 ticks behind
-[03Dec2024 00:56:31.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
-[03Dec2024 00:56:53.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6689ms or 133 ticks behind
-[03Dec2024 00:56:54.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 00:56:57.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Alien Thing
-[03Dec2024 00:57:05.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 00:57:12.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4375ms or 87 ticks behind
-[03Dec2024 00:57:30.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
-[03Dec2024 00:57:48.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
-[03Dec2024 00:58:05.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03Dec2024 00:58:11.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 00:58:23.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
-[03Dec2024 00:58:23.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 00:58:24.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JohnnyZ_[/127.61.122.255:49575] logged in with entity id 139383 at (-9.5, 81.0, 3.5)
-[03Dec2024 00:58:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ joined the game
-[03Dec2024 00:58:25.012] [Server thread/INFO] [Jade/]: Syncing config to JohnnyZ_ (e9cd77df-fdc2-3cbe-930c-606a1e9a5f06)
-[03Dec2024 00:58:49.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11106ms or 222 ticks behind
-[03Dec2024 00:58:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 00:59:12.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=83, z=5}
-[03Dec2024 00:59:12.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=83, z=4}
-[03Dec2024 00:59:12.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=83, z=5}
-[03Dec2024 00:59:12.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=83, z=5}
-[03Dec2024 00:59:14.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10145ms or 202 ticks behind
-[03Dec2024 00:59:22.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 00:59:25.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JohnnyZ_ lost connection: Timed out
-[03Dec2024 00:59:25.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ left the game
-[03Dec2024 00:59:25.234] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Dec2024 00:59:33.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3839ms or 76 ticks behind
-[03Dec2024 00:59:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 00:59:56.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8027ms or 160 ticks behind
-[03Dec2024 01:00:03.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:00:17.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6477ms or 129 ticks behind
-[03Dec2024 01:00:18.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 01:00:19.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JohnnyZ_[/127.61.122.255:35643] logged in with entity id 141130 at (-12.300000011920929, 82.7531999805212, 4.699999988079071)
-[03Dec2024 01:00:19.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ joined the game
-[03Dec2024 01:00:19.775] [Server thread/INFO] [Jade/]: Syncing config to JohnnyZ_ (e9cd77df-fdc2-3cbe-930c-606a1e9a5f06)
-[03Dec2024 01:00:46.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13807ms or 276 ticks behind
-[03Dec2024 01:01:02.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=83, z=5}
-[03Dec2024 01:01:11.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10406ms or 208 ticks behind
-[03Dec2024 01:01:20.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JohnnyZ_ lost connection: Timed out
-[03Dec2024 01:01:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ left the game
-[03Dec2024 01:01:37.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:01:39.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12954ms or 259 ticks behind
-[03Dec2024 01:01:53.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 01:02:01.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6714ms or 134 ticks behind
-[03Dec2024 01:02:05.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:02:26.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9433ms or 188 ticks behind
-[03Dec2024 01:02:31.037] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2aeea56b[id=<null>,name=JohnnyZ_,properties={},legacy=false] (/127.223.113.178:58621) lost connection: Disconnected
-[03Dec2024 01:02:56.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15104ms or 302 ticks behind
-[03Dec2024 01:03:02.192] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4152c9f4[id=<null>,name=JohnnyZ_,properties={},legacy=false] (/127.223.113.178:41275) lost connection: Disconnected
-[03Dec2024 01:03:16.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JohnnyZ_[/127.223.113.178:43875] logged in with entity id 143258 at (-12.300000011920929, 82.28904060556576, 4.699999988079071)
-[03Dec2024 01:03:16.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ joined the game
-[03Dec2024 01:03:16.504] [Server thread/INFO] [Jade/]: Syncing config to JohnnyZ_ (e9cd77df-fdc2-3cbe-930c-606a1e9a5f06)
-[03Dec2024 01:03:22.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10918ms or 218 ticks behind
-[03Dec2024 01:03:32.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JohnnyZ_> as
-[03Dec2024 01:03:49.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=78, z=-15}
-[03Dec2024 01:03:50.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13550ms or 271 ticks behind
-[03Dec2024 01:03:54.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 01:04:28.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22893ms or 457 ticks behind
-[03Dec2024 01:05:06.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22765ms or 455 ticks behind
-[03Dec2024 01:05:21.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 has made the advancement [Cover Me with Diamonds]
-[03Dec2024 01:05:37.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16276ms or 325 ticks behind
-[03Dec2024 01:06:13.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21517ms or 430 ticks behind
-[03Dec2024 01:06:49.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20378ms or 407 ticks behind
-[03Dec2024 01:06:51.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:07:10.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 01:07:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ has made the advancement [A Seedy Place]
-[03Dec2024 01:07:20.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15763ms or 315 ticks behind
-[03Dec2024 01:07:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:07:36.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 01:07:43.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8147ms or 162 ticks behind
-[03Dec2024 01:07:59.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy melted
-[03Dec2024 01:08:08.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10136ms or 202 ticks behind
-[03Dec2024 01:08:33.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10322ms or 206 ticks behind
-[03Dec2024 01:08:58.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9491ms or 189 ticks behind
-[03Dec2024 01:09:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ has made the advancement [Monster Hunter]
-[03Dec2024 01:09:22.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9347ms or 186 ticks behind
-[03Dec2024 01:09:45.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8361ms or 167 ticks behind
-[03Dec2024 01:10:09.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8371ms or 167 ticks behind
-[03Dec2024 01:10:35.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11323ms or 226 ticks behind
-[03Dec2024 01:11:03.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13405ms or 268 ticks behind
-[03Dec2024 01:11:25.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was shot by Skeleton
-[03Dec2024 01:11:25.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7248ms or 144 ticks behind
-[03Dec2024 01:11:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elcovid19 was fungi-fied by Inquisitor
-[03Dec2024 01:11:55.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14807ms or 296 ticks behind
-[03Dec2024 01:11:59.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ was eaten alive by Inquisitor
-[03Dec2024 01:11:59.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity HuskPlayer['JohnnyZ_'/149956, l='ServerLevel[world]', x=259.46, y=92.00, z=-223.93] died: Husk Player was eaten alive by Inquisitor
-[03Dec2024 01:12:00.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 1.491437292798139,-11.549749572659081,-0.8153661395126619
-[03Dec2024 01:12:02.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 0.8426115896338047,-11.31484983401701,-0.7515136966576392
-[03Dec2024 01:12:09.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/65401, l='ServerLevel[world]', x=255.28, y=92.00, z=-220.35] died, message: 'Unemployed was fungi-fied by Inquisitor'
-[03Dec2024 01:12:23.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12380ms or 247 ticks behind
-[03Dec2024 01:12:24.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Primordial Stalker
-[03Dec2024 01:12:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ was slain by Slasher
-[03Dec2024 01:12:45.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7419ms or 148 ticks behind
-[03Dec2024 01:12:58.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 1.3473380921251419,-12.699842841951241,-1.0017485158988393
-[03Dec2024 01:13:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Primordial Stalker
-[03Dec2024 01:13:12.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12126ms or 242 ticks behind
-[03Dec2024 01:13:32.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ was slain by Brotkatze
-[03Dec2024 01:13:38.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11305ms or 226 ticks behind
-[03Dec2024 01:13:40.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 01:13:40.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ has made the advancement [The Flesh Has Arrived]
-[03Dec2024 01:13:43.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Primordial Stalker
-[03Dec2024 01:13:51.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JohnnyZ_ lost connection: Timed out
-[03Dec2024 01:13:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ left the game
-[03Dec2024 01:13:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:14:01.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7272ms or 145 ticks behind
-[03Dec2024 01:14:03.183] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37958e34[id=<null>,name=JohnnyZ_,properties={},legacy=false] (/127.61.122.255:33291) lost connection: Disconnected
-[03Dec2024 01:14:08.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 01:14:14.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 2.899098050058626,-10.531546555149895,-1.1994516504291823
-[03Dec2024 01:14:19.256] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 01:14:19.258] [Netty Epoll Server IO #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@16feb3de[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:38225): Unexpected custom data from client
-[03Dec2024 01:14:20.309] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16feb3de[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:38225) lost connection: Unexpected custom data from client
-[03Dec2024 01:14:20.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:14:25.253] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 01:14:25.254] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@78171675[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:57959): Unexpected custom data from client
-[03Dec2024 01:14:25.321] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78171675[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:57959) lost connection: Unexpected custom data from client
-[03Dec2024 01:14:25.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JohnnyZ_[/127.61.122.255:47229] logged in with entity id 151637 at (217.10693135277063, 103.0, -243.35087300522645)
-[03Dec2024 01:14:25.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ joined the game
-[03Dec2024 01:14:25.910] [Server thread/INFO] [Jade/]: Syncing config to JohnnyZ_ (e9cd77df-fdc2-3cbe-930c-606a1e9a5f06)
-[03Dec2024 01:14:27.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11069ms or 221 ticks behind
-[03Dec2024 01:14:53.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11390ms or 227 ticks behind
-[03Dec2024 01:14:55.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JohnnyZ_ lost connection: Timed out
-[03Dec2024 01:14:55.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JohnnyZ_ left the game
-[03Dec2024 01:14:56.268] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Dec2024 01:15:04.387] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d10ced2[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:48919) lost connection: Disconnected
-[03Dec2024 01:15:07.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Adventure Mode]
-[03Dec2024 01:15:10.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Primordial Stalker
-[03Dec2024 01:15:14.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5882ms or 117 ticks behind
-[03Dec2024 01:15:23.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:15:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 01:15:34.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4952ms or 99 ticks behind
-[03Dec2024 01:15:44.200] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
-[03Dec2024 01:15:44.201] [Netty Epoll Server IO #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@606f7d30[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:41119): Unexpected custom data from client
-[03Dec2024 01:15:44.372] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@606f7d30[id=<null>,name=TheInsaneBoy,properties={},legacy=false] (/127.105.131.153:41119) lost connection: Unexpected custom data from client
-[03Dec2024 01:15:46.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 7.330616333346256,-6.79434742958874,-2.1304101948613834
-[03Dec2024 01:15:47.031] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3eecd9bd[id=<null>,name=JohnnyZ_,properties={},legacy=false] (/127.61.122.255:50199) lost connection: Disconnected
-[03Dec2024 01:15:56.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7381ms or 147 ticks behind
-[03Dec2024 01:16:23.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11961ms or 239 ticks behind
-[03Dec2024 01:16:48.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10134ms or 202 ticks behind
-[03Dec2024 01:17:10.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7100ms or 142 ticks behind
-[03Dec2024 01:17:33.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8024ms or 160 ticks behind
-[03Dec2024 01:17:34.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Converted Pig
-[03Dec2024 01:17:54.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
-[03Dec2024 01:18:08.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 1.1824242070092623,-12.699842841951241,-0.18004642426029704
-[03Dec2024 01:18:13.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
-[03Dec2024 01:18:36.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
-[03Dec2024 01:18:53.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JohnnyZ_'/151093, l='ServerLevel[world]', x=250.70, y=90.39, z=-249.60] died: JohnnyZ_ was slain by Elcovid19
-[03Dec2024 01:18:53.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Converted Pig
-[03Dec2024 01:18:57.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5956ms or 119 ticks behind
-[03Dec2024 01:19:22.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9892ms or 197 ticks behind
-[03Dec2024 01:19:31.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 2.250508208991789,-10.468705676006422,-1.4980787221688274
-[03Dec2024 01:19:33.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 0.7690219633504398,-11.065764912039818,-0.513183683089494
-[03Dec2024 01:19:48.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11395ms or 227 ticks behind
-[03Dec2024 01:20:21.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18100ms or 362 ticks behind
-[03Dec2024 01:20:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Zombie Player
-[03Dec2024 01:20:42.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6067ms or 121 ticks behind
-[03Dec2024 01:21:03.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5928ms or 118 ticks behind
-[03Dec2024 01:21:07.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 8.530370632095583,-2.947796707429987,-4.454445377485456
-[03Dec2024 01:21:14.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 5.828256528338784,-8.794042067896122,-2.3713080829533624
-[03Dec2024 01:21:32.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13644ms or 272 ticks behind
-[03Dec2024 01:22:02.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15722ms or 314 ticks behind
-[03Dec2024 01:22:31.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! -3.971061286201632,-9.931361432680475,-1.8626605174017357
-[03Dec2024 01:22:31.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14002ms or 280 ticks behind
-[03Dec2024 01:22:32.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was doomed to fall by Zombie
-[03Dec2024 01:22:56.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9771ms or 195 ticks behind
-[03Dec2024 01:23:05.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: orion_cuy moved too quickly! 1.0483750485253722,-11.19886200217774,-1.376670907949574
-[03Dec2024 01:23:25.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14335ms or 286 ticks behind
-[03Dec2024 01:23:34.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Creative Mode]
-[03Dec2024 01:23:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Zombie Player
-[03Dec2024 01:23:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elcovid19: Set own game mode to Survival Mode]
-[03Dec2024 01:23:51.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10213ms or 204 ticks behind
-[03Dec2024 01:24:13.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7659ms or 153 ticks behind
-[03Dec2024 01:24:18.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy fell from a high place
-[03Dec2024 01:24:36.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7734ms or 154 ticks behind
-[03Dec2024 01:24:36.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
-[03Dec2024 01:24:59.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8139ms or 162 ticks behind
-[03Dec2024 01:25:24.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9495ms or 189 ticks behind
-[03Dec2024 01:25:33.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['orion_cuy'/155466, l='ServerLevel[world]', x=429.19, y=-30.00, z=-240.20] died: Zombie Player was doomed to fall by orion_cuy
-[03Dec2024 01:25:45.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6134ms or 122 ticks behind
-[03Dec2024 01:25:59.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was blown up by orion_cuy
-[03Dec2024 01:26:07.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7183ms or 143 ticks behind
+[03Dec2024 21:35:10.710] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[03Dec2024 21:35:10.715] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Dec2024 21:35:12.015] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Dec2024 21:35:12.101] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/The-Last-of-Us/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Dec2024 21:35:12.506] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/The-Last-of-Us/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03Dec2024 21:35:12.514] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/The-Last-of-Us/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Dec2024 21:35:12.519] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/The-Last-of-Us/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Dec2024 21:35:12.524] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/The-Last-of-Us/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Dec2024 21:35:13.052] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03Dec2024 21:35:13.055] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[03Dec2024 21:35:16.453] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Dec2024 21:35:16.584] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[03Dec2024 21:35:16.588] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[03Dec2024 21:35:16.604] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03Dec2024 21:35:16.925] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Dec2024 21:35:20.389] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[03Dec2024 21:35:33.723] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Dec2024 21:35:33.725] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03Dec2024 21:35:33.731] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03Dec2024 21:35:33.735] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03Dec2024 21:35:33.738] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03Dec2024 21:35:33.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03Dec2024 21:35:33.744] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03Dec2024 21:35:33.745] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03Dec2024 21:35:34.009] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[03Dec2024 21:35:34.219] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[03Dec2024 21:35:35.646] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
+[03Dec2024 21:35:35.653] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
+[03Dec2024 21:35:35.659] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
+[03Dec2024 21:35:35.800] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[03Dec2024 21:35:35.871] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03Dec2024 21:35:35.871] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03Dec2024 21:35:35.942] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03Dec2024 21:35:39.592] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[03Dec2024 21:35:41.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Dec2024 21:35:42.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.18 Target: 5.10.3
+[03Dec2024 21:35:42.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03Dec2024 21:35:42.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[03Dec2024 21:35:42.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
+[03Dec2024 21:35:42.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
+[03Dec2024 21:35:42.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
+[03Dec2024 21:35:42.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
+[03Dec2024 21:35:42.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[03Dec2024 21:35:43.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[03Dec2024 21:35:43.142] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Dec2024 21:35:43.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[03Dec2024 21:35:43.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[03Dec2024 21:35:43.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.17 Target: null
+[03Dec2024 21:35:48.573] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[03Dec2024 21:35:48.575] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[03Dec2024 21:35:48.576] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[03Dec2024 21:35:48.576] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[03Dec2024 21:35:48.769] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[03Dec2024 21:35:48.770] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[03Dec2024 21:35:48.770] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[03Dec2024 21:35:48.771] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[03Dec2024 21:35:48.771] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[03Dec2024 21:35:48.771] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[03Dec2024 21:35:48.772] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[03Dec2024 21:35:48.773] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[03Dec2024 21:35:48.860] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Dec2024 21:35:48.945] [modloading-worker-0/INFO] [sheridan.gunscraft.Gunscraft/]: Got IMC []
+[03Dec2024 21:35:48.947] [modloading-worker-0/INFO] [easy_emerald/]: Hello world from EasyEmerald
+[03Dec2024 21:35:48.947] [modloading-worker-0/INFO] [easy_emerald/]: EasyEmerald IMC [Hello world]
+[03Dec2024 21:35:49.003] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[03Dec2024 21:35:49.046] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[03Dec2024 21:35:49.058] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[03Dec2024 21:35:49.064] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[03Dec2024 21:35:49.069] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[03Dec2024 21:35:53.629] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Dec2024 21:35:55.934] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/The-Last-of-Us/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
+[03Dec2024 21:35:55.935] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/The-Last-of-Us/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
+[03Dec2024 21:35:55.940] [main/INFO] [From Another Library/]: Attempting to load resource pack "fromanotherworld_spore_alliance"
+[03Dec2024 21:35:59.691] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:phayriosis:blocks/biomass_fungus_colony
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'pharyosis_parasites:biomass_fungus_colony'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[03Dec2024 21:36:00.553] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.570] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe phayriosis:leathery_leggings_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'pharyosis_parasites:leathery_armor_piece'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.590] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe phayriosis:leatherychestplate_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'pharyosis_parasites:leathery_armor_piece'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.603] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.657] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
+com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.692] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe phayriosis:leathery_boots_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'pharyosis_parasites:leathery_armor_piece'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.720] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe phayriosis:leathery_helmet_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'pharyosis_parasites:assimilated_hide'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipe.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23172!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.723] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.727] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound
+com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:169) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23167!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Dec2024 21:36:00.756] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 14 recipes
+[03Dec2024 21:36:00.999] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2260 advancements
+[03Dec2024 21:36:01.018] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[03Dec2024 21:36:01.036] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[03Dec2024 21:36:01.047] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[03Dec2024 21:36:01.070] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+[03Dec2024 21:36:01.070] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
+[03Dec2024 21:36:01.071] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
+[03Dec2024 21:36:01.071] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
+[03Dec2024 21:36:01.072] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[03Dec2024 21:36:01.072] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
+[03Dec2024 21:36:01.072] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
+[03Dec2024 21:36:01.073] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
+[03Dec2024 21:36:01.073] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
+[03Dec2024 21:36:01.074] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+[03Dec2024 21:36:01.074] [main/INFO] [hordes/]: loaded horde table hordes:default
+[03Dec2024 21:36:01.074] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
+[03Dec2024 21:36:01.075] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[03Dec2024 21:36:01.076] [main/INFO] [hordes/]: loaded horde table hordes:drowned
+[03Dec2024 21:36:01.077] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
+[03Dec2024 21:36:01.077] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
+[03Dec2024 21:36:01.078] [main/INFO] [hordes/]: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
+[03Dec2024 21:36:01.078] [main/INFO] [hordes/]: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
+[03Dec2024 21:36:01.079] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
+[03Dec2024 21:36:01.079] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
+[03Dec2024 21:36:01.079] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
+[03Dec2024 21:36:01.084] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
+[03Dec2024 21:36:01.085] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
+[03Dec2024 21:36:01.085] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
+[03Dec2024 21:36:01.086] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
+[03Dec2024 21:36:01.086] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
+[03Dec2024 21:36:01.087] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
+[03Dec2024 21:36:01.087] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
+[03Dec2024 21:36:01.087] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
+[03Dec2024 21:36:01.088] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
+[03Dec2024 21:36:01.089] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
+[03Dec2024 21:36:01.090] [main/INFO] [hordes/]: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
+[03Dec2024 21:36:01.090] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
+[03Dec2024 21:36:01.093] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
+[03Dec2024 21:36:01.094] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
+[03Dec2024 21:36:01.096] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
+[03Dec2024 21:36:01.101] [main/INFO] [hordes/]: loaded horde table hordes:mixed_mobs
+[03Dec2024 21:36:01.101] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
+[03Dec2024 21:36:01.102] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
+[03Dec2024 21:36:01.103] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
+[03Dec2024 21:36:01.104] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
+[03Dec2024 21:36:01.105] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
+[03Dec2024 21:36:01.106] [main/INFO] [hordes/]: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
+[03Dec2024 21:36:01.106] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
+[03Dec2024 21:36:01.107] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
+[03Dec2024 21:36:01.107] [main/INFO] [hordes/]: loaded horde table hordes:illagers
+[03Dec2024 21:36:01.109] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
+[03Dec2024 21:36:01.112] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
+[03Dec2024 21:36:01.113] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
+[03Dec2024 21:36:01.114] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
+[03Dec2024 21:36:01.115] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
+[03Dec2024 21:36:01.116] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
+[03Dec2024 21:36:01.117] [main/INFO] [hordes/]: loaded horde table hordes:skeletons
+[03Dec2024 21:36:01.118] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+[03Dec2024 21:36:01.119] [main/INFO] [hordes/]: loaded horde table hordes:fallback
+[03Dec2024 21:36:01.133] [main/INFO] [hordes/]: loaded horde script hordes:default
+[03Dec2024 21:36:01.134] [main/INFO] [hordes/]: Loading conversion tables
+[03Dec2024 21:36:01.135] [main/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
+[03Dec2024 21:36:01.138] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
+[03Dec2024 21:36:01.139] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
+[03Dec2024 21:36:01.142] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
+[03Dec2024 21:36:01.144] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
+[03Dec2024 21:36:01.145] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
+[03Dec2024 21:36:01.146] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
+[03Dec2024 21:36:01.147] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
+[03Dec2024 21:36:01.147] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
+[03Dec2024 21:36:01.148] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
+[03Dec2024 21:36:01.149] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
+[03Dec2024 21:36:01.150] [main/INFO] [hordes/]: Loading immunity item list
+[03Dec2024 21:36:01.151] [main/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
+[03Dec2024 21:36:01.151] [main/INFO] [hordes/]: Loaded immunity item minecraft:enchanted_golden_apple with duration 150
+[03Dec2024 21:36:01.152] [main/INFO] [hordes/]: Loading wearables protection list
+[03Dec2024 21:36:01.153] [main/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
+[03Dec2024 21:36:01.154] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
+[03Dec2024 21:36:01.154] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
+[03Dec2024 21:36:01.155] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
+[03Dec2024 21:36:01.156] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
+[03Dec2024 21:36:01.156] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
+[03Dec2024 21:36:01.157] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
+[03Dec2024 21:36:01.160] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
+[03Dec2024 21:36:01.160] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
+[03Dec2024 21:36:01.161] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
+[03Dec2024 21:36:01.162] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
+[03Dec2024 21:36:01.162] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
+[03Dec2024 21:36:01.164] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
+[03Dec2024 21:36:01.165] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
+[03Dec2024 21:36:01.166] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
+[03Dec2024 21:36:01.166] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
+[03Dec2024 21:36:01.167] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
+[03Dec2024 21:36:01.168] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
+[03Dec2024 21:36:01.169] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
+[03Dec2024 21:36:01.170] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
+[03Dec2024 21:36:01.171] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
+[03Dec2024 21:36:01.172] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_boots with modifier 0.82
+[03Dec2024 21:36:01.173] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
+[03Dec2024 21:36:01.173] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
+[03Dec2024 21:36:01.175] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
+[03Dec2024 21:36:01.176] [main/INFO] [hordes/]: Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
+[03Dec2024 21:36:02.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Dec2024 21:36:02.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Dec2024 21:36:02.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Dec2024 21:36:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Dec2024 21:36:03.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Dec2024 21:36:03.158] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Dec2024 21:36:03.322] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Dec2024 21:36:03.323] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Dec2024 21:36:03.323] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Dec2024 21:36:03.324] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Dec2024 21:36:03.359] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Dec2024 21:36:03.360] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Dec2024 21:36:03.362] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Dec2024 21:36:03.443] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[03Dec2024 21:36:03.443] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[03Dec2024 21:36:03.444] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[03Dec2024 21:36:03.445] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[03Dec2024 21:36:03.445] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[03Dec2024 21:36:03.446] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[03Dec2024 21:36:03.447] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[03Dec2024 21:36:03.447] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[03Dec2024 21:36:03.447] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[03Dec2024 21:36:03.449] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[03Dec2024 21:36:03.457] [Server thread/INFO] [Framework/]: Loading server configs...
+[03Dec2024 21:36:03.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Dec2024 21:36:13.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Dec2024 21:36:22.853] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.858] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.859] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.863] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.865] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.868] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.869] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.886] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.887] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.888] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.889] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.890] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.890] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.891] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.894] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.900] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:22.902] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:23.070] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:23.578] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:24.068] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:24.568] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:25.069] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Dec2024 21:36:25.615] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[03Dec2024 21:36:26.381] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12814 ms
+[03Dec2024 21:36:26.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.041s)! For help, type "help"
+[03Dec2024 21:36:26.487] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Dec2024 21:41:29.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
+[03Dec2024 21:43:41.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: orion_cuy[/127.217.54.90:42633] logged in with entity id 435 at (329.4020487078162, 74.0, -469.6937643532323)
+[03Dec2024 21:43:41.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy joined the game
+[03Dec2024 21:43:41.559] [Server thread/INFO] [Jade/]: Syncing config to orion_cuy (891c0686-3ada-3e5a-a7aa-6b19fbb235f6)
+[03Dec2024 21:43:43.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[03Dec2024 21:44:33.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34407ms or 688 ticks behind
+[03Dec2024 21:44:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: orion_cuy was slain by Converted Pufferfish
+[03Dec2024 21:45:02.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14134ms or 282 ticks behind
